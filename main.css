@@ -129,7 +129,7 @@ body {
   cursor: pointer;
   transition: background-color var(--animation-duration) var(--timing-function);
   outline: none;
-  background-image: url("../icons.svg#close-icon");
+  background-image: url("./close-icon.svg");
   background-position: center;
   background-size: 60%;
   background-repeat: no-repeat;
